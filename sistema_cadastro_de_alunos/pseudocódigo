@@ -1,0 +1,27 @@
+INÍCIO
+    DECLARAR:
+        nome: texto[80]
+        idade: inteiro
+        altura: real_duplo
+        peso: real
+        série: caractere
+    
+    ESCREVER "===sistema cadastro de alunos==="
+    ESCREVER linha em branco
+    
+    ESCREVER "digite o nome completo: "
+    LER nome
+    
+    ESCREVER "digite a idade: "
+    LER idade
+    
+    ESCREVER "digite a altura: "
+    LER altura
+    
+    ESCREVER "peso do aluno: "
+    LER peso
+    
+    ESCREVER "série: "
+    LER série
+    
+FIM

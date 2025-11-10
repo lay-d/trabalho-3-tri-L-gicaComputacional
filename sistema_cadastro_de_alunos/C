@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main()
+{
+    char nome [80];
+    int idade;
+    double altura;
+    float peso;
+    char série;
+    
+
+    printf("===sistema cadastro de alunos===\n\n");
+    
+    
+    printf("digite o nome completo: ");
+    scanf("%70s", &nome);
+    
+    printf("digite a idade: ");
+    scanf("%lf", &idade );
+    
+    printf("digite a altura: ");
+    scanf("%lf", &altura );
+    
+    printf("peso do aluno:  ");
+    scanf("%f", &peso );
+    
+    printf("série: ");
+    scanf("%s", &série );
+    return 0;
+}
