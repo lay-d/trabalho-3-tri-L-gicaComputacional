@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main() {
+    char nome[80];
+    int validade;
+    float peso;
+    int quantidade;
+
+    printf("===Cadastro de produtos===\n\n");
+
+    printf("Digite o nome do produto: ");
+    scanf("%79s", nome); 
+
+    printf("Digite a validade: ");
+    scanf("%d", &validade); 
+
+    printf("Digite o peso: ");
+    scanf("%f", &peso);
+
+    printf("Digite a quantidade: ");
+    scanf("%d", &quantidade);
+
+   
+    
+}

@@ -1,0 +1,21 @@
+INICIO
+    DECLARAR nome: TEXTO[80]
+    DECLARAR validade: INTEIRO
+    DECLARAR peso: REAL
+    DECLARAR quantidade: INTEIRO
+    
+    ESCREVER "===Cadastro de produtos==="
+    ESCREVER ""  // linha em branco
+    
+    ESCREVER "Digite o nome do produto: "
+    LER nome
+    
+    ESCREVER "Digite a validade: "
+    LER validade
+    
+    ESCREVER "Digite o peso: "
+    LER peso
+    
+    ESCREVER "Digite a quantidade: "
+    LER quantidade
+FIM
