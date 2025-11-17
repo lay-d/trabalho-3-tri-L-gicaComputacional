@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    char nome[80];
+    int quantidade;
+
+    printf("===Controle de estoque===\n\n");
+
+    printf("Digite o nome do produto: ");
+    scanf("%79s", nome); 
+
+    printf("Digite a quantidade: ");
+    scanf("%d", &quantidade);
+}

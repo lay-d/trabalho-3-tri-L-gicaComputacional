@@ -1,10 +1,4 @@
 INÍCIO
-    DECLARAR:
-        nome: texto[80]
-        idade: inteiro
-        altura: real_duplo
-        peso: real
-        série: caractere
     
     ESCREVER "===sistema cadastro de alunos==="
     ESCREVER linha em branco
