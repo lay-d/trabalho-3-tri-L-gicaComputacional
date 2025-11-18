@@ -1,6 +1,6 @@
 # Trabalho-3-tri-LógicaComputacional
 
-Controle de estoque: coloque o nome do produto e logo depois coloque a quantidade do produto
+Controle de estoque: digite nome do produto e logo depois coloque a quantidade do produto
 ![eReNE0i_d](https://github.com/user-attachments/assets/ca8e63fc-5c6b-4cab-8505-7be28016ab7c)
 
 Sistema cadastro de alunos: digite nome completo, depois coloque sua idade, altura, peso e serie
